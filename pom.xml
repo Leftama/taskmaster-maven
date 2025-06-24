@@ -44,4 +44,20 @@
  		</plugin>
  	</plugins>
 </build>
+
+<profiles>
+ 	<profile>
+ 		<id>dev</id>
+ 		<properties>
+ 			<env.name>Desarrollo</env.name>
+ 		</properties>
+ 	</profile>
+ 
+ 	<profile>
+ 		<id>prod</id>
+ 		<properties>
+ 			<env.name>Producción</env.name>
+ 		</properties>
+ 	</profile>
+</profiles>
 </project>
