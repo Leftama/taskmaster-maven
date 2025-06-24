@@ -1,0 +1,18 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "CodeGPT.apiKey": "CodeGPT Plus",
+    "java.configuration.runtimes": [
+    {
+      "name": "JavaSE-17",
+      "path": "/usr/lib/jvm/java-1.17.0-openjdk-amd64",
+      "default": true
+    }
+  ],
+  "java.configuration.compilerCompliance": "17",
+  "java.configuration.javaRuntime.version": "17",
+  "java.format.settings.url": "https://raw.githubusercontent.com/google/styleguide/gh-pages/eclipse-java-google-style.xml",
+  "java.format.settings.profile": "GoogleStyle",
+  "java.errors.incompleteClasspath.severity": "ignore"
+    
+}
+
