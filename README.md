@@ -166,8 +166,22 @@ mvn test
 
 **Salida esperada:**
 ```
-[INFO] Tests run: 4, Failures: 0, Errors: 0, Skipped: 0
+[INFO] -------------------------------------------------------
+[INFO]  T E S T S
+[INFO] -------------------------------------------------------
+[INFO] Running com.equipo.taskmaster.AppTest
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.170 s -- in com.equipo.taskmaster.AppTest
+[INFO] 
+[INFO] Results:
+[INFO] 
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0
+[INFO] 
+[INFO] ------------------------------------------------------------------------
 [INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  4.003 s
+[INFO] Finished at: 2025-06-24T16:42:49-04:00
+[INFO] ------------------------------------------------------------------------
 ```
 
 ---
