@@ -39,7 +39,7 @@ mvn -v
 ```
 Apache Maven 3.x.x
 Maven home: /path/to/maven
-Java version: 11.x.x
+Java version: 17.x.x
 ```
 
 ---
